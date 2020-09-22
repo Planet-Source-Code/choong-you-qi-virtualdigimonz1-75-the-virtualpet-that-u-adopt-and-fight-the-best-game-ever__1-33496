@@ -1,0 +1,20 @@
+Form1	- Loading Screen
+Form2	- Main Screen
+Form3	- Owner Profile
+Form4	- Sign Up Main
+Form5	- Battle Main Connection
+Form6	- Sign Up Owner Pic Select
+Form7	- All Image
+Form8	- Foods
+Form9	- Casino
+Form10	- Shop/Market Stall
+Form11	- About
+Form12	- Battle Arena Mai Screen
+Form13	- SINGLE PLAYER BATTLING
+Form14	- Status:(for battle)
+Form15	- Battle Statistic
+Form16	- Cancel double Program Running
+Form17	- Netplay Battle Arena(Server)
+Form18	- Evolve
+Form19	- Netplay Battle Arena(Client)
+
